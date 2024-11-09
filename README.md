@@ -7,7 +7,7 @@ This project involves the end-to-end ETL (Extract, Transform, Load) process of t
 
 ### Project Phases
 
-#### Phase 1: Data Profiling, Staging, and Dimensional Modeling
+#### [Phase 1](https://github.com/DurgeshS-25/Motor-Vehicle-collisions-Crashes/tree/main/Phase_01): Data Profiling, Staging, and Dimensional Modeling
 1. **Data Profiling**:
    - Conducted using Ydata Profile.
 2. **Data Staging**:
@@ -21,7 +21,7 @@ This project involves the end-to-end ETL (Extract, Transform, Load) process of t
 4. **Database**:
    - Data is stored in  MySQL database.
 
-#### Phase 2: Data Integration and Validation
+#### [Phase 2](https://github.com/DurgeshS-25/Motor-Vehicle-collisions-Crashes/tree/main/Phase_02): Data Integration and Validation
 1. **Staging to Integration**:
    - Used Talend ETL jobs to load data from staging tables to the dimensional model.
    - Validated the data integrity and quality in the dimensional tables.
@@ -30,7 +30,7 @@ This project involves the end-to-end ETL (Extract, Transform, Load) process of t
 3. **Business Queries**:
    - Used SQL queries on the dimensional model to answer business-specific questions.
 
-#### Phase 3: Data Visualization
+#### [Phase 3](https://github.com/DurgeshS-25/Motor-Vehicle-collisions-Crashes/tree/main/Phase_03): Data Visualization
 1. **Visualizations**:
    - Created reports and dashboards using [Tableau](https://github.com/DurgeshS-25/Motor-Vehicle-collisions-Crashes/blob/main/Phase_03/Final_Project_Tableau.twbx) and [Power BI](https://github.com/DurgeshS-25/Motor-Vehicle-collisions-Crashes/blob/main/Phase_03/Final_Project_PowerBI.pbit).
    - Uploaded screenshots of all visualizations for reference.
