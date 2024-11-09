@@ -9,7 +9,7 @@ This project involves the end-to-end ETL (Extract, Transform, Load) process of t
 
 #### Phase 1: Data Profiling, Staging, and Dimensional Modeling
 1. **Data Profiling**:
-   - Conducted using Alteryx and Ydata Profile.
+   - Conducted using Ydata Profile.
 2. **Data Staging**:
    - Created staging tables for each dataset using Talend ETL jobs.
    - Performed initial transformations to standardize the data format across cities.
