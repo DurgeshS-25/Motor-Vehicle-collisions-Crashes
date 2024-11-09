@@ -54,8 +54,8 @@ This project involves the end-to-end ETL (Extract, Transform, Load) process of t
 
 ### Technologies Used
 - **ETL**: Talend
-- **Data Profiling**: Alteryx, Ydata
-- **Database**: Azure SQL Server, MySQL, SQL Server
+- **Data Profiling**: Ydata
+- **Database**: MySQL
 - **Visualization**: Tableau, Power BI
 
 ### How to Run the Project
