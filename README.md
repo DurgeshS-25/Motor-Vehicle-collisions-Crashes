@@ -1,7 +1,3 @@
-Here's a README template based on the details provided:
-
----
-
 # Project Title: Traffic Collision Data ETL and Analysis
 
 ## Group: 03
@@ -75,7 +71,3 @@ This project involves the end-to-end ETL (Extract, Transform, Load) process of t
 - **Mapping Document**: Contains details on column mappings from source to target tables.
 - **Transformation Document**: Lists all transformations applied at each stage.
 - **Business Queries**: Contains SQL queries for answering business-specific questions.
-
---- 
-
-This README provides a clear outline of the project phases, workflows, and technical requirements for setup and execution.
