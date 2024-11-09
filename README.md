@@ -38,17 +38,17 @@ This project involves the end-to-end ETL (Extract, Transform, Load) process of t
 
 ### Project Workflow
 
-1. **Austin Dataset**:
+1. [**Austin Dataset**](https://northeastern-my.sharepoint.com/:u:/r/personal/naveenhks_northeastern_edu/Documents/DAMG7370_Spring_2024/Final_Project_Datasets/Austin_Crash_Report_Data_-_Crash_Level_Records_20240326.tsv?csf=1&web=1&e=CmVozv):
    - Staging table setup, with specific transformations applied to columns like `CRASH_DATE` and `CRASH_TIME`.
    - Null values in longitude, latitude, and street names were handled.
 
-2. **Chicago Dataset**:
+2. [**Chicago Dataset**](https://northeastern-my.sharepoint.com/:u:/r/personal/naveenhks_northeastern_edu/Documents/DAMG7370_Spring_2024/Final_Project_Datasets/Chicago_Traffic_Crashes_-_Crashes_20240326.tsv?csf=1&web=1&e=oLyAEp):
    - Similar staging and transformations as Austin, with additional handling for unique Chicago-specific attributes.
 
-3. **New York Dataset**:
+3. [**New York Dataset**](https://northeastern-my.sharepoint.com/:u:/r/personal/naveenhks_northeastern_edu/Documents/DAMG7370_Spring_2024/Final_Project_Datasets/NY_Motor_Vehicle_Collisions_-_Crashes_20240326.tsv?csf=1&web=1&e=DFzsue):
    - Specific transformations and error handling, especially for `NUMBER_OF_PERSONS_INJURED` with unparsable values.
 
-4. **Dimensional Modeling**:
+4. [**Dimensional Modeling**](https://github.com/DurgeshS-25/Motor-Vehicle-collisions-Crashes/blob/main/Phase_01/Dimensional_Model_Schema.sql):
    - Created `Address`, `Date`, `Time`, `Vehicle Type`, and `Contributing Factors` dimensions.
    - Designed a `Crash Fact` table integrating the staged data from all cities.
 
