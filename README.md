@@ -67,7 +67,6 @@ This project involves the end-to-end ETL (Extract, Transform, Load) process of t
 3. **Visualization**:
    - Open Tableau or Power BI, load the dimensional tables, and create the specified visualizations.
 
-### Documentation
-- **Mapping Document**: Contains details on column mappings from source to target tables.
-- **Transformation Document**: Lists all transformations applied at each stage.
-- **Business Queries**: Contains SQL queries for answering business-specific questions.
+### [**Documentation**](https://github.com/DurgeshS-25/Motor-Vehicle-collisions-Crashes/blob/main/Phase_01/Workflow_explaination_final.docx)
+- [**Mapping Document**](https://github.com/DurgeshS-25/Motor-Vehicle-collisions-Crashes/blob/main/Phase_01/Mapping_Document_final.xlsx): Contains details on column mappings from source to target tables.
+- [**Business Queries**](https://github.com/DurgeshS-25/Motor-Vehicle-collisions-Crashes/blob/main/Phase_02/Business%20queries.sql): Contains SQL queries for answering business-specific questions.
