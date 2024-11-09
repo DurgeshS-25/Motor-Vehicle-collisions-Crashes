@@ -19,7 +19,7 @@ This project involves the end-to-end ETL (Extract, Transform, Load) process of t
    - Defined mappings from source columns to target columns.
    - Created a mapping document to explain the transformations applied.
 4. **Database**:
-   - Data is stored in an Azure SQL Server, MySQL, or SQL Server database.
+   - Data is stored in  MySQL database.
 
 #### Phase 2: Data Integration and Validation
 1. **Staging to Integration**:
