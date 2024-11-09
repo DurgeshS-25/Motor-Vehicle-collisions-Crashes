@@ -32,7 +32,7 @@ This project involves the end-to-end ETL (Extract, Transform, Load) process of t
 
 #### Phase 3: Data Visualization
 1. **Visualizations**:
-   - Created reports and dashboards using Tableau and Power BI.
+   - Created reports and dashboards using [Tableau](https://github.com/DurgeshS-25/Motor-Vehicle-collisions-Crashes/blob/main/Phase_03/Final_Project_Tableau.twbx) and [Power BI](https://github.com/DurgeshS-25/Motor-Vehicle-collisions-Crashes/blob/main/Phase_03/Final_Project_PowerBI.pbit).
    - Uploaded screenshots of all visualizations for reference.
    - Optional: Published reports to the cloud, based on access availability.
 
